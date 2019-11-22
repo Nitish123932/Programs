@@ -1542,11 +1542,11 @@ long factorial(int x)
 ### Output of the Program
 
     Enter the information of student: 
-    Enter Name: Ritik Dogra
+    Enter Name: Nitish
     Enter Phone Number: 9877122721
     Enter Marks: 80
 
     Entered Information is: 
-    Name: Ritik Dogra
+    Name: Nitish
     Age: 9465329287
     Marks: 88
